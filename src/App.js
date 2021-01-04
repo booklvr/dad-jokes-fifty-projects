@@ -1,7 +1,8 @@
 import React from 'react'
+import DadJokes from './components/DadJokes'
 
 const App = () => {
-  return <h1>BoilerPlate</h1>
+  return <DadJokes />
 }
 
 export default App
